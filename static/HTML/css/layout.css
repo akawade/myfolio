@@ -64,7 +64,13 @@ a:focus, a:hover, a:active {
   color: #999caa;
   text-decoration: none;
 }
-
+.list {
+  font-size: 15px;
+  font-weight: 400;
+  font-family: Hind, sans-serif;
+  color: #a6a7aa;
+  line-height: 1.4;
+}
 .link {
   position: relative;
   font-size: 13px;
